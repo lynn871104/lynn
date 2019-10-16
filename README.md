@@ -10,6 +10,7 @@
 ### 練習
 * CodeSignal
 * LeetCode
+    * [(1)Two Sum](https://github.com/lynn871104/lynn/blob/master/leetcode%E7%B7%B4%E7%BF%92/(1)Two%20Sum)
 # 關於我
 * **姓名**：蔡玲絹
 * **性別**：女
