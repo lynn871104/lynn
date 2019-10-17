@@ -1,7 +1,8 @@
 # **108-1資料結構演算法(DSA)**
-10/18作業繳交:[Quicksort(github版)](https://github.com/lynn871104/lynn/blob/master/week4/Quicksort.md)  
-             [ipynb版](https://github.com/lynn871104/lynn/blob/master/week4/quicksort.ipynb)
-             流程圖
+10/18作業繳交:  
+[Quicksort(github版)](https://github.com/lynn871104/lynn/blob/master/week4/Quicksort.md)  
+[ipynb版](https://github.com/lynn871104/lynn/blob/master/week4/quicksort.ipynb)  
+流程圖
 
 # **目錄**
 ### 課堂  
