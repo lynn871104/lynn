@@ -21,19 +21,23 @@
 
 * 新增/刪除資料麻煩(所有資料須同時移動)  
 * 花費O(N)的時間在搬動資料  
+  
 **Array適用時機:**  
   
 * 能夠快速存取資料。  
 * 已知欲處理的資料數量、便能確認矩陣的大小。  
 * 要求記憶體空間的使用越少越好。  
+  
 **Linked list優點:**  
   
 * 新增/刪除資料較簡單，只要對O(1)個節點調整pointer，無須搬動其餘元素  
-* Linked list的資料數量可以是動態的，不像Array會有resize的問題
+* Linked list的資料數量可以是動態的，不像Array會有resize的問題  
+  
 **Linked list缺點**  
   
 * Linked list沒有index，若要找到特定node，需要從頭```(ListNode*first)```開始找起，搜尋的時間複雜度為O(N)  
-* 需要額外的記憶體空間來儲存pointer  
+* 需要額外的記憶體空間來儲存pointer   
+  
 **Linked list適用時機**  
   
 * 無法預期資料數量時  
