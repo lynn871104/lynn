@@ -11,6 +11,8 @@
 > * Week 3 [Stack & Queue](https://github.com/lynn871104/lynn/tree/master/week3)
 >      * [leetCode(155)Min stack](https://github.com/lynn871104/lynn/blob/master/week3/(155)Min%20Stack)
 > * Week 4 [Insertion sort & Quick sort](https://github.com/lynn871104/lynn/tree/master/week4)  
+> * Week 5 [Quick sort]  
+> * Week 6 [Heap sort]
 ### 練習
 > * CodeSignal
 > * LeetCode
