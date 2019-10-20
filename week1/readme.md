@@ -1,4 +1,4 @@
-# github的readme語法
+# github的markdown語法
 
 ## 標題
 ```
