@@ -1,15 +1,16 @@
 # Linked List
+## Linked List定義
+* Listed list(連接串列)是一種常見的資料結構、其使用node(節點)來記錄、表示、儲存資料，並利用每個node中的Pointer指向下一個node，藉此將多個node串接起來，並以NULL來代表Linked list的終點。  
+*　一個node中至少會包含data和pointer。　　
+*　Ｐointer記錄下一個node的記憶體位置，因此可以在Lnked list中「移動」、「新增節點」、「刪除節點」「印出Linked list」等資料處理。  
+  
 ## Linked List優點
 * 不連續的儲存在記憶體位置  
 * 依使用多寡分配空間  
 * 方便頻繁新增、刪除資料 
 * 查詢(走訪所有node)  
-* BlockChain的應用
-
-## Linked List定義
-* Listed list(連接串列)是一種常見的資料結構、其使用node(節點)來記錄、表示、儲存資料，並利用每個node中的Pointer指向下一個node，藉此將多個node串接起來，並以NULL來代表Linked list的終點。  
-*　一個node中至少會包含data和pointer。　　
-*　Ｐointer記錄下一個node的記憶體位置，因此可以在Lnked list中「移動」、「新增節點」、「刪除節點」「印出Linked list」等資料處理。  
+* BlockChain的應用  
+  
 ## Array和Linked list的比較
 **Array優點:**  
   
