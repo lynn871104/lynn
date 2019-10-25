@@ -9,7 +9,7 @@
 ```
 array = [5,7,3,-3,4,6]
 
-def quick_sort(array):
+def sort(array):
     small = []
     center = []
     big = []
@@ -26,7 +26,7 @@ def quick_sort(array):
         return sort(small)+sort(center)+sort(big) #排好再合併起來 
     else: 
         return array #最後返回array
-quick_sort(array)
+sort(array)
 ```
 問題:儲存空間會太多、時間要很久->參考網路上class的用法
 ```
